@@ -1,0 +1,15 @@
+flask
+dash
+wget
+pandas
+numpy
+dash
+dash_bootstrap_components
+plotly
+plotly-express
+ipywidgets
+yahoo_fin
+beautifulsoup4
+pymongo
+regex
+requests
