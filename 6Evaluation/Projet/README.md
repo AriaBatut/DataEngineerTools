@@ -1,7 +1,7 @@
 # Bourse-et-Immobilier-Mongo-Flask-
 Travail de découverte sur mongo et affichage grâce à Flask
 
-Une image du projet fonctionnel se trouve dans le Dossier du projet: ***6 Evaluation/Overview.png***
+Une image du projet fonctionnel se trouve dans le Dossier du projet: ***6 Evaluation/Projet/Overview.png***
 
 *Le contexte :*
 
