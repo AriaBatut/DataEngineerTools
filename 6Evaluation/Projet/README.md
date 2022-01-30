@@ -12,9 +12,9 @@ Ainsi, via l'application web finale, on peut voir si la bourse est dans une phas
 
 ### User Guide
 1) Cloner tout le projet à partir du GIT.
-`git clone https://github.com/AriaBatut/DataEngineerTools/tree/master/6Evaluation/Projet`
+`git clone https://github.com/AriaBatut/DataEngineerTools`
 
-2) Ouvrir un terminal, avec Docker installé, et se mettre dans le dossier du projet qui vient d'être téléchargé. Il reste à lancer le projet :
+2) Ouvrir un terminal, avec Docker installé, et se mettre dans le dossier du projet qui vient d'être téléchargé DataEngineerTools\6Evaluation\Projet. Il reste à lancer le projet :
 `docker-compose up`
 
 
