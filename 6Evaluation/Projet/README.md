@@ -17,7 +17,7 @@ Ainsi, via l'application web finale, on peut voir si la bourse est dans une phas
 2) Ouvrir un terminal, avec Docker installé et se mettre dans le dossier du projet qui vient d'être téléchargé DataEngineerTools\6Evaluation\Projet. Ouvrir Docker pour qu'il tourne en rrière plan puis il reste à lancer le projet en executahnt la commande suivant dans le terminal:
 `docker-compose up`
 
-3) Une fois tous les téléchargements effectués, il ne reste plus qu'à ouvrir un navigateur et aller à la page (localhost:5001)[http://localhost:5001/]
+3) Une fois tous les téléchargements effectués, il ne reste plus qu'à ouvrir un navigateur et aller à la page [localhost:5001](http://localhost:5001/)
 
 
 ### Developper Guide
